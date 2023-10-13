@@ -1,4 +1,7 @@
-<img src="https://count.getloli.com/get/@LunarEclipse?theme=moebooru">
+<img src="https://count.getloli.com/get/@LunarEclipse?theme=moebooru" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=949886&layout=compact&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api?username=949886&show_icons=true&rank_icon=percentile&hide=contribs,prs&cache_seconds=21600&theme=flag-india" >
+
 
 <!--
 **949886/949886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
