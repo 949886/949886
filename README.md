@@ -21,7 +21,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b2b13-111e-475d-881a-745ab9cf24b7.svg?style=for-the-badge)](https://wakatime.com/@018b2b13-111e-475d-881a-745ab9cf24b7)
 
-[![LunarEclipse's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunarEclipse&layout=compact&hide=ActionScript%203,Binary,Ezhil,GDScript3,INI,Perl,Text,TSQL,XML,Csproj)](https://wakatime.com/@018b2b13-111e-475d-881a-745ab9cf24b7)
+[![LunarEclipse's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunarEclipse&layout=compact&hide=ActionScript%203,Binary,CSV,Ezhil,GDScript3,GitExclude%20file,INI,Perl,Text,textmate,TSQL,XML,Csproj)](https://wakatime.com/@018b2b13-111e-475d-881a-745ab9cf24b7)
 
 
 <!--
